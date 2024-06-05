@@ -1,0 +1,48 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/benign-neoplasm-of-brain-and-other-parts-of-central-nervous---primary.py
+inputModule3:
+  class: File
+  path: python/spinal-benign-neoplasm-of-brain-and-other-parts-of-central-nervous---primary.py
+inputModule4:
+  class: File
+  path: python/benign-neoplasm-of-brain-and-other-parts-of-central-nervous-mmeningioma---primary.py
+inputModule5:
+  class: File
+  path: python/aortic-benign-neoplasm-of-brain-and-other-parts-of-central-nervous---primary.py
+inputModule6:
+  class: File
+  path: python/craniopharyngeal-benign-neoplasm-of-brain-and-other-parts-of-central-nervous---primary.py
+inputModule7:
+  class: File
+  path: python/cerebral-benign-neoplasm-of-brain-and-other-parts-of-central-nervous---primary.py
+inputModule8:
+  class: File
+  path: python/benign---primary.py
+inputModule9:
+  class: File
+  path: python/pituitary-benign-neoplasm-of-brain-and-other-parts-of-central-nervous---primary.py
+inputModule10:
+  class: File
+  path: python/benign-neoplasm-of-brain-and-other-parts-of-central-nervous-neuroma---primary.py
+inputModule11:
+  class: File
+  path: python/benign-neoplasm-of-brain-and-other-parts-of-central-nervous-meninge---primary.py
+inputModule12:
+  class: File
+  path: python/benign-neoplasm-of-brain-and-other-parts-of-central-nervous-system---primary.py
+inputModule13:
+  class: File
+  path: python/benign-neoplasm-of-brain-and-other-parts-of-central-nervous-paraganglia---primary.py
+inputModule14:
+  class: File
+  path: python/pineal-benign-neoplasm-of-brain-and-other-parts-of-central-nervous---primary.py
+inputModule15:
+  class: File
+  path: python/carotid-benign-neoplasm-of-brain-and-other-parts-of-central-nervous---primary.py
+inputModule16:
+  class: File
+  path: python/output-cases.py
